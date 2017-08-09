@@ -1,6 +1,6 @@
 # I wanna be programmer
 
-This GIT repository is a collection of self-teaching tasks suitable for learning most programming language.
+This is not a tutorial but a collection of tasks suitable for self-teaching most programming language.
 
 Even though most of the solutions are using [The Rust Programming Language][318aa7f0], none of the tasks is not suitable for any other programming language.
 
